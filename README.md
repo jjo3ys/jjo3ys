@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Yeonseong Jo
-<h2> I love everything in the Earth like eating, travling, singing, guitar and blah blah blah...</h2>
+<h2> I love everything in the Earth like eating, travling, singing, meme and blah blah blah...</h2>
 
 ![EverythingReactionMemeGIF](https://user-images.githubusercontent.com/76899755/216822373-8de269bd-8f0f-4b8f-b3a1-079acf89621e.gif)
 
