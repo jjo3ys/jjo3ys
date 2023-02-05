@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Yeonseong Jo
-
+<h1>I love cooking, eating, travling, singing, guitar blah blah...</h1>
 <!--
 **jjo3ys/jjo3ys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
