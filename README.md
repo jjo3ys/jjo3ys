@@ -10,13 +10,13 @@
 
 <h2> My skill stacks🧩</h2>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python)
-![Django](https://img.shields.io/badge/-django-092E20?style=flat&logo=django)
-![Flask](https://img.shields.io/badge/-flask-000000?style=flat&logo=flask)
-![pytorch](https://img.shields.io/badge/-pytorch-EE4C2C?style=flar&logo=pytorch)
-![keras](https://img.shields.io/badge/-keras-D00000?style=flat&logo=keras)
-![Node](https://img.shields.io/badge/-NodeJs-339933?style=flat&logo=node.js)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=ffffff)
+![Django](https://img.shields.io/badge/-django-092E20?style=flat&logo=django&logoColor=ffffff)
+![Flask](https://img.shields.io/badge/-flask-000000?style=flat&logo=flask&logoColor=ffffff)
+![pytorch](https://img.shields.io/badge/-pytorch-EE4C2C?style=flar&logo=pytorch&logoColor=ffffff)
+![keras](https://img.shields.io/badge/-keras-D00000?style=flat&logo=keras&logoColor=ffffff)
+![Node](https://img.shields.io/badge/-NodeJs-339933?style=flat&logo=node.js&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff)
 <!--
 **jjo3ys/jjo3ys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
