@@ -40,4 +40,4 @@
 
 <h2> My Blog </h2>
 
-[blog linkl](https://velog.io/@jjo3ys)
+[blog linkl(https://velog.io/@jjo3ys)
