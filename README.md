@@ -26,4 +26,5 @@
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=ffffff)
 <br>
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff)
-![docker](https://img.shields.io/badge/-docker-#2496ED?style=flat&logo=docker&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-github-181717?style=flat&logo=github&logoColor=ffffff)
+![docker](https://img.shields.io/badge/-docker-2496ED?style=flat&logo=docker&logoColor=ffffff)
