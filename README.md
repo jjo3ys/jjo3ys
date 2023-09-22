@@ -8,6 +8,7 @@
 ![LearningYesGIF](https://user-images.githubusercontent.com/76899755/216823006-8bd8f2b5-69d5-4bab-8779-2e7c58367b0e.gif)
 
 <h2> My git stats </h2>
+
 ![jjo3ys's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjo3ys&show_icons=true&theme=blue_navy)
 
 
