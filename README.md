@@ -25,6 +25,10 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=ffffff)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=ffffff)
 <br>
+![ec2](https://img.shields.io/badge/-amazonec2-FF9900?style=flat&logo=amazonec2&logoColor=ffffff)
+![ec2](https://img.shields.io/badge/-amazons3-569A31?style=flat&logo=amazons3&logoColor=ffffff)
+![ec2](https://img.shields.io/badge/-amazonrds-527FFF?style=flat&logo=amazonrds&logoColor=ffffff)
+<br>
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-github-181717?style=flat&logo=github&logoColor=ffffff)
 ![docker](https://img.shields.io/badge/-docker-2496ED?style=flat&logo=docker&logoColor=ffffff)
