@@ -13,7 +13,10 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=ffffff)
 ![Django](https://img.shields.io/badge/-django-092E20?style=flat&logo=django&logoColor=ffffff)
 ![Flask](https://img.shields.io/badge/-flask-000000?style=flat&logo=flask&logoColor=ffffff)
+<br>
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=ffffff)
+![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=ffffff)
+![Spring Security](https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurityt&logoColor=ffffff)
 <br>
 ![Pytorch](https://img.shields.io/badge/-pytorch-EE4C2C?style=flar&logo=pytorch&logoColor=ffffff)
 ![keras](https://img.shields.io/badge/-keras-D00000?style=flat&logo=keras&logoColor=ffffff)
@@ -23,17 +26,3 @@
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=ffffff)
 <br>
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff)
-<!--
-**jjo3ys/jjo3ys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
