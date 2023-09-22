@@ -37,3 +37,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-github-181717?style=flat&logo=github&logoColor=ffffff)
 ![docker](https://img.shields.io/badge/-docker-2496ED?style=flat&logo=docker&logoColor=ffffff)
+
+<h2> My Blog </h2>
+
+[blog linkl](https://velog.io/@jjo3ys)
