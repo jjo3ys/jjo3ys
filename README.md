@@ -3,13 +3,14 @@
 
 ![EverythingReactionMemeGIF](https://user-images.githubusercontent.com/76899755/216822373-8de269bd-8f0f-4b8f-b3a1-079acf89621e.gif)
 
-### My git stats
-![jjo3ys's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjo3ys&show_icons=true&theme=blue_navy)
-
-
 <h2> And I can do anything with just a little learning.</h2>
 
 ![LearningYesGIF](https://user-images.githubusercontent.com/76899755/216823006-8bd8f2b5-69d5-4bab-8779-2e7c58367b0e.gif)
+
+<h2> My git stats </h2>
+![jjo3ys's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjo3ys&show_icons=true&theme=blue_navy)
+
+
 
 <h2> My skill stacks🧩</h2>
 
