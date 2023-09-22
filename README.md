@@ -16,7 +16,7 @@
 <br>
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=ffffff)
 ![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=ffffff)
-![Spring Security](https://img.shields.io/badge/springsecurity-6DB33F?style=flat&logo=springsecurityt&logoColor=ffffff)
+![Spring Security](https://img.shields.io/badge/springSecurity-6DB33F?style=flat&logo=springsecurityt&logoColor=ffffff)
 <br>
 ![Pytorch](https://img.shields.io/badge/-pytorch-EE4C2C?style=flar&logo=pytorch&logoColor=ffffff)
 ![keras](https://img.shields.io/badge/-keras-D00000?style=flat&logo=keras&logoColor=ffffff)
@@ -26,3 +26,4 @@
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=ffffff)
 <br>
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff)
+![docker](https://img.shields.io/badge/-Docker-#2496ED?style=flat&logo=docker&logoColor=ffffff)
